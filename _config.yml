@@ -2,12 +2,12 @@
 title: Gabriel Francato # your name (or website title) her
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p>
+  <p align="justify">
   Objetivos:
   Meu principal objetivo como engenheiro 'e aplicar de maneira eficiente o conhecimento tencologico
   em setores que ainda considero aquem nesse quesito. (Como o setor financeiro por exemplo)
   </p>
-  <p>
+  <p align="justify">
   Descricao: 
   Com formacao em engenharia da computacao e experiencias na area de financas e investimento, 
   busco aliar essas duas paixoes. Alem disso, tenho conhecimento de cloud e visao.
